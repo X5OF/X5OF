@@ -14,4 +14,4 @@
 - 👀 [ArtDanger](https://github.com/ArtDanger)
 
 👔 Manager: 
-- :construction_worker: [Kirill](https://t.me/Lucky777profile)
+- :monocle_face: [Kirill](https://t.me/Lucky777profile)
