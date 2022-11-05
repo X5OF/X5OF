@@ -14,4 +14,4 @@
 - 👀 [ArtDanger](https://github.com/ArtDanger)
 
 👔 Manager: 
-- :rocket: [Kirill](https://t.me/Lucky777profile)
+- :construction_worker: [Kirill](https://t.me/Lucky777profile)
