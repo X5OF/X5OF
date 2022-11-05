@@ -1,16 +1,17 @@
-# Hi
+# 👋 Hi
 
-- 👋 We're a developer team @X5OF.
+- :rocket: We're a developer team @X5OF.
 - 🌱 Our purpose make things more efficient. 
 - ✨ Our motto - "Do your best before the fest".
 
 
-###### - 📫 Contact us https://t.me/Lucky777profile
+###### 📫 Contact us https://t.me/Lucky777profile
 
-## Our current team:
+## :busts_in_silhouette: Our current team:
 
-Developers
+:technologist: Developers:
 - 👀 [Vi](https://github.com/nbowisdar) 
 - 👀 [ArtDanger](https://github.com/ArtDanger)
 
-[Manager](https://t.me/Lucky777profile)
+👔 Manager: 
+- :rocket: [Kirill](https://t.me/Lucky777profile)
