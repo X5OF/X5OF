@@ -5,7 +5,7 @@
 - ✨ Our motto - "Do your best before the fest".
 
 
-###### - 📫 Contact us by https://t.me/Lucky777profile
+###### - 📫 Contact us https://t.me/Lucky777profile
 
 ## Our current team:
 
